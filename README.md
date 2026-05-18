@@ -26,18 +26,6 @@ It provides a fast development environment with Hot Module Replacement (HMR) and
 
 ---
 
-## Available Plugins
-
-This template supports two official React plugins:
-
-1. `@vitejs/plugin-react`
-   - Uses Oxc
-   - Provides Fast Refresh support
-
-2. `@vitejs/plugin-react-swc`
-   - Uses SWC for faster compilation
-
----
 
 ## Getting Started
 
@@ -46,4 +34,4 @@ This template supports two official React plugins:
 ```bash
 git clone <your-github-repository-link>
 
-npm run nev
+npm run dev
