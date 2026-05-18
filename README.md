@@ -1,16 +1,49 @@
-# React + Vite
+# React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built using React and Vite.  
+It provides a fast development environment with Hot Module Replacement (HMR) and basic ESLint configuration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- React for building user interfaces
+- Vite for fast development and build
+- Hot Module Replacement (HMR)
+- ESLint for code quality
+- Simple and lightweight project setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- ESLint
+
+---
+
+## Available Plugins
+
+This template supports two official React plugins:
+
+1. `@vitejs/plugin-react`
+   - Uses Oxc
+   - Provides Fast Refresh support
+
+2. `@vitejs/plugin-react-swc`
+   - Uses SWC for faster compilation
+
+---
+
+## Getting Started
+
+### Step 1: Clone the Repository
+
+```bash
+git clone <your-github-repository-link>
+
+npm run nev
